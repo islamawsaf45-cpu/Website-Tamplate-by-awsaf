@@ -1,6 +1,6 @@
 # 🚀 Website Template Setup Guide
 
-Welcome to this website template! Follow these step-by-step instructions to download the template, customize it with your own information, and deploy it live on the web for free.
+Welcome to this website template! Follow these step-by-step instructions to download the template, customize it with your own information, and deploy it live on the web for free. You can see an example -> awsaf-website.onrender.com
 
 ---
 
