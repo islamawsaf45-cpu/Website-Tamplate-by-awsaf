@@ -5,18 +5,18 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     dati = {
-        'nome': 'Awsaf Æ7',
-        'descrizione': 'Editor & Website builder | Join my discord if you want free overlays, comps, presets and for other things!!',
+        'nome': 'Your_Name',
+        'descrizione': 'Your description' ,
         
         # Link social reali per i pulsanti rotondi/colorati
-        'link_discord': 'https://discord.gg/9ADy3MVzZ',
-        'link_tiktok': 'https://www.tiktok.com/@awsaf.ae?is_from_webapp=1&sender_device=pc',
-        'link_youtube': 'https://youtube.com/@awsaf_editz?si=lJ0E4e0eEfLj2CYl',
+        'link_discord': 'Your_Discord_Link',
+        'link_tiktok': 'Your_Tiktok_Link',
+        'link_youtube': 'Your_youTube_link',
         
         # Link reali per i tre grandi rettangoli con i bordi rossi
-        'link_workflow': 'https://workflowenhancer.com',
-        'link_downgrade': 'https://aedowngradefiles.com',
-        'link_wtm_tiktok': 'https://chromewebstore.google.com/detail/wtm-tiktok-method/bfheeapgnbphifakecnklmdampcppffh'
+        'link_Your link name here': 'Your_link_Here',
+        'link_Your link name here': 'Your_link_here',
+        'link_Your link name here': 'Your_Link_Here'
     }
     return render_template('index.html', utente=dati)
 
