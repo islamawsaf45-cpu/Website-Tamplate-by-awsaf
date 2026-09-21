@@ -23,8 +23,8 @@ Before uploading anything, you need to add your personal photo to the project:
 
 ## ✏️ Step 3: Personalize Your Information
 Before publishing, you must replace the placeholder text with your actual details:
-1. Open the code files (like `index.html` or configuration files) using a text editor (e.g., Notepad, VS Code).
-2. Look for the placeholder text such as **"aggiungi il tuo nome"**, **"link"**, **"descrizione"**, etc.
+1. Open the code files (like `app.py` or configuration files) using a text editor (e.g., Notepad, VS Code).
+2. Look for the placeholder text such as **"Your name"**, **"link"**, **"description"**, etc.
 3. Replace them with your **Name**, **Links**, **Description**, and update the image path to point to your new photo inside the `static` folder.
 4. Save all the files.
 
